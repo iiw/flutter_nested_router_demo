@@ -1,16 +1,11 @@
 # demo_navigator_2
 
-A new Flutter project.
+## description
+An example of an application created by using Flutter Navigator 2.0 and declarative routing with Router class.
+I've placed classes and files according to its role and functionality. It should helps to understand better how Navigator 2.0 works.
 
-## Getting Started
+## russian
+Пример приложения, реализующий навигацию Flutter Navigator 2.0 и декларативный роутинг с помощью класса Router.
+Разместил классы в различных папках согласно их роли и функционалу, чтобы можно было лучше понять как работает Navigator 2.0.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade
